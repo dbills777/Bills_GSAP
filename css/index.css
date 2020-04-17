@@ -122,6 +122,11 @@ footer {
   text-transform: uppercase;
   transform: rotate(180deg);
 }
+.offscreen {
+  opacity: 0;
+  font-size: 2rem;
+  color: gray;
+}
 .secondary-jumbo {
   background-image: url('../images/secondary-hero.jpg');
   background-size: cover;
