@@ -9,7 +9,7 @@ let preorder = document.querySelector(".animate-btn")
 // https://developer.mozilla.org/en-US/docs/Web/Events
 
 preorder.addEventListener('click', event => {
-  console.log('is it workin');
+  // console.log('is it workin');
   gsap.to(".offscreen",{
     duration: 5,
     y: 10,
