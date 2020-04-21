@@ -17,5 +17,7 @@ preorder.addEventListener('click', event => {
 
 });
 
+// gsap.to(".react",{duration: 2, x: 300, backgroundColor: "black", x: -300} )
+gsap.to(".react", { delay: 2, repeat: 2, repeatDelay: 3, duration: 3, ease: "elastic.out(15, 1)", x: 100, });
 
-
+gsap.from(".react", 8, {rotation:1080*10, scale:5, ease:Linear.easeNone})

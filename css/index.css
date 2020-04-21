@@ -318,4 +318,8 @@ footer div.container > :last-child {
 html {
   font-size: 62.5%;
 }
+.react {
+  margin-left: -40px;
+  color: black;
+}
 /*# sourceMappingURL=index.css.map */
