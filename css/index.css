@@ -77,7 +77,7 @@ footer {
   background-color: #e3e2e0;
 }
 .jumbotron {
-  background-image: url("../images/heroImage.jpg");
+  background-image: url("../images/secondary-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
@@ -123,17 +123,19 @@ footer {
   transform: rotate(180deg);
 }
 .offscreen {
+  display: inline;
   opacity: 0;
   font-size: 2rem;
-  color: gray;
+  color: #ffffff;
+  background-color: #000000;
 }
 .secondary-jumbo {
-  background-image: url('../images/secondary-hero.jpg');
+  background-image: url("../images/secondary-hero.jpg");
   background-size: cover;
 }
 .work-jumbo {
   margin: auto;
-  background-image: url('../images/Work.png');
+  background-image: url("../images/Work.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -164,7 +166,7 @@ footer {
   font-size: 2rem;
   padding-right: 0;
   margin-right: 0;
-  background-color: rgba(69, 69, 69, 0.667);
+  background-color: rgba(69, 69, 69, 0.822);
 }
 .rightside button {
   justify-self: center;
