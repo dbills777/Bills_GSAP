@@ -324,4 +324,8 @@ html {
   margin-left: -40px;
   color: black;
 }
+body {
+  max-width: 1400px;
+  margin: 0 auto;
+}
 /*# sourceMappingURL=index.css.map */
