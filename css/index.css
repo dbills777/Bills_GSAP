@@ -93,7 +93,7 @@ footer {
   border-left: 3px solid #ffdc9b;
 }
 .jumbotron .container h1 {
-  color: gray;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 6rem;
@@ -296,6 +296,9 @@ footer div.container > :last-child {
 .career-form {
   padding: 4rem;
 }
+nav {
+  height: 120px;
+}
 .collapse {
   justify-content: flex-end;
   font-size: 2rem;
@@ -305,7 +308,7 @@ footer div.container > :last-child {
   margin-left: 4rem;
 }
 .nav-item {
-  padding: 2rem;
+  padding: 1rem;
   font-family: 'Sen', sans-serif;
   font-size: 2rem;
 }
