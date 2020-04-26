@@ -84,8 +84,8 @@ footer {
   margin-bottom: 0;
 }
 .jumbotron .container {
-  margin-left: 20rem;
-  margin-top: 15rem;
+  margin-left: 10rem;
+  margin-top: 12rem;
 }
 .jumbotron .container h1 span {
   padding-left: 0.5rem;
@@ -115,8 +115,8 @@ footer {
   color: white;
   writing-mode: vertical-lr;
   text-orientation: mixed;
-  margin-top: 35rem;
-  margin-left: 10rem;
+  margin-top: 24rem;
+  margin-left: 8rem;
   border-right: 1px solid orange;
   padding-top: 15rem;
   text-transform: uppercase;
@@ -295,9 +295,6 @@ footer div.container > :last-child {
 }
 .career-form {
   padding: 4rem;
-}
-nav {
-  height: 120px;
 }
 .collapse {
   justify-content: flex-end;
