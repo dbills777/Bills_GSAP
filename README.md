@@ -1,7 +1,5 @@
 # Introduction to GSAP
 
-All animations can be found in [index.js](https://github.com/dbills777/Bills_GSAP/blob/master/js/index.jsindex.js)<br><br>
-
 Link to Website [BillsGSAPintro](https://bills2780gsap.netlify.app/)<br><br>
 
 https://bills2780gsap.netlify.app/
