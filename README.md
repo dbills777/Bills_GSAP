@@ -2,7 +2,6 @@
 
 Link to Website [BillsGSAPintro](https://bills2780gsap.netlify.app/)<br><br>
 
-https://bills2780gsap.netlify.app/
 
 ### First Animation (onload)
 
